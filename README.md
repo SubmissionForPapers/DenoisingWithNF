@@ -4,3 +4,4 @@ The notebooks load pre-trained flows for either periodic or non-periodic data in
 
  Wiener filtering requires the power spectrum coefficients of the maps, which are provided in sample_test_data directory.
 
+Requirements: numpy, scipy, matplotlib, PyTorch (we use version 1.11.0), imageio, Pk_library
